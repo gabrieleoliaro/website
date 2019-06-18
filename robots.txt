@@ -1,0 +1,6 @@
+# Regola 1
+User-agent: *
+Disallow: /db/
+Disallow: /img/logos/
+
+Sitemap: http://www.gabrieleoliaro.it/sitemap.xml
