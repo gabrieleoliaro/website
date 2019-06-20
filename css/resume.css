@@ -75,6 +75,28 @@ p.lead {
   background-color: #BD5D38;
 }
 
+.language-icons a {
+  display: inline-block;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #495057;
+  color: #fff !important;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 3.5rem;
+  margin-right: 1rem;
+}
+
+.language-icons a:last-child {
+  margin-right: 0;
+}
+
+.language-icons a:hover {
+  background-color: #BD5D38;
+}
+
+
 .dev-icons {
   font-size: 3rem;
 }
