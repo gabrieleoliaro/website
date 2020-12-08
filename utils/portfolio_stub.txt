@@ -1,0 +1,12 @@
+<div class="col-lg-4 col-md-6 portfolio-item filter-milan">
+  <div class="portfolio-wrap">
+    <img src="milan_link1.jpg" class="img-fluid" alt="">
+    <div class="portfolio-info">
+      <h4>Milan 1</h4>
+      <p>Milan</p>
+      <div class="portfolio-links">
+        <a href="milan_link1.jpg" data-gall="portfolioGallery" class="venobox" title="Milan 1"><i class="bx bx-plus"></i></a>
+      </div>
+    </div>
+  </div>
+</div>

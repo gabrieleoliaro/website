@@ -2,6 +2,5 @@
 User-agent: *
 Disallow: /db/
 Disallow: /img/logos/
-Disallow: /old/
 
 Sitemap: http://www.gabrieleoliaro.it/sitemap.xml
